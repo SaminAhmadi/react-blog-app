@@ -1,0 +1,14 @@
+.card {
+  transition: 0.4s;
+}
+.card:hover {
+  scale: 1.05;
+}
+.read-more:hover {
+  cursor: pointer;
+  color: #f54980;
+}
+.card-text {
+  text-align: justify;
+  font-family: "Yekan";
+}

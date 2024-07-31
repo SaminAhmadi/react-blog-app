@@ -1,0 +1,13 @@
+.navbar-nav {
+  gap: 10px;
+}
+.navbar-nav a {
+  text-decoration: none;
+  color: #a9a9a9;
+}
+.active {
+  color: var(--primary-color) !important;
+}
+.nav-link {
+  font-family: "Yekan";
+}

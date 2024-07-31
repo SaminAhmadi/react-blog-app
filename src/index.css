@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "Lalezar";
+  src: url(./assets/fonts/Lalezar.ttf);
+}
+@font-face {
+  font-family: "Yekan";
+  src: url(./assets/fonts/Yekan.ttf);
+}
+:root {
+  --primary-color: #16a89f;
+}
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Lalezar";
+}
